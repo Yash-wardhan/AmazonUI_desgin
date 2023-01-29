@@ -1,6 +1,20 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+Output
+
+![Uploading landing1.PNG…]()
+
+![Uploading landing2.PNG…]()
+
+![Uploading Landing3.PNG…]()
+
+![Uploading Landing4.PNG…]()!
+
+[Uploading LAnding5.PNG…]()
+
+![Uploading Responsive.png…]()
+
 
 First, run the development server:
 
